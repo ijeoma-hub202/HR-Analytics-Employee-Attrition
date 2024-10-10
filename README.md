@@ -5,7 +5,7 @@
 - *Project Description*
 - *Tools Used*
 - *Data Analysis Questions(SQL)*
-- *Power BI Visuals*
+- *Power BI Visual*
 - *Conclusion*
 - *Recommendation*
 
@@ -14,4 +14,9 @@ Employee Attrition refers to the rate at which employees leave a  company. Under
 
 ### Tools Used
 - Excel
-- Power Query to 
+- Power Query to clean the dataset
+- SSMS (SQL Server Management Studio)
+- Power BI
+
+### Data Analysis Questions
+1. 
